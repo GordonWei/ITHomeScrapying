@@ -12,4 +12,9 @@
 
 # How to Use
 
+edit ithomeNews.py and change these.
+
+- line 12, change your personal line notify token.
+
 # Run it
+`python3 ithomeNews.py`
